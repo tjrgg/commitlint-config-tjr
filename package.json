@@ -1,0 +1,15 @@
+{
+	"name": "commitlint-config-tjr",
+	"description": "CommitLint shareable config for TJR",
+	"version": "1.0.0",
+	"author": {
+		"name": "Tyler Richards",
+		"email": "hello@tjrgg.xyz"
+	},
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"main": "index.js",
+	"license": "UNLICENSED",
+	"repository": "tjrgg/commitlint-config-tjr"
+}
